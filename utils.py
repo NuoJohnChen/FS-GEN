@@ -41,8 +41,8 @@ collabrate_method = {
         'method': 'SpeculativeDecoding',
         'K': 5
     },
-    'EmulatorFineTuning': {
-        'method': 'EmulatorFineTuning',
+    'ProxyFineTuning': {
+        'method': 'ProxyFineTuning',
         'alpha': 1.0
     },
     'OracleDecoding': {
